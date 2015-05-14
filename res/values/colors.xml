@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="correct_letter">#00CC00</color>
+    <color name="incorrect_letter">#FF0000</color>
+    
+</resources>

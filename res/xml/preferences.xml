@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <ListPreference android:entryValues="@array/number_letters_list" android:summary="@string/number_of_letters_description" android:entries="@array/number_letters_list" android:title="@string/number_of_letters" android:defaultValue="6" android:key="@string/pref_numberOfLetters" android:persistent="true"/>
+    
+
+</PreferenceScreen>
